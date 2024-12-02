@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="tests.PersonalInfoTest">
+        <methods>
+          <include name="Open"/>
+          <include name="StateP"/>
+          <include name="Confirm"/>
+          <include name="PersonalView"/>
+          <include name="CGlogin"/>
+          <include name="IsMinority"/>
+          <include name="AddContact"/>
+          <include name="DOB"/>
+          <include name="Language"/>
+          <include name="Linkedin"/>
+          <include name="India"/>
+          <include name="ChackAddress"/>
+          <include name="PersonalMiddleName"/>
+          <include name="Scenario_1"/>
+          <include name="SelectedLanguage"/>
+          <include name="setup"/>
+          <include name="Other"/>
+          <include name="Catagory"/>
+          <include name="SelectAdmission"/>
+          <include name="WhatsApp"/>
+          <include name="Instagram"/>
+          <include name="Indian"/>
+          <include name="AddressLine1"/>
+          <include name="Male"/>
+          <include name="AddressLine2"/>
+          <include name="Applied"/>
+          <include name="PersonalEmail"/>
+          <include name="ViewApplication"/>
+          <include name="Profile"/>
+          <include name="AdmissionPortal"/>
+          <include name="Mr"/>
+          <include name="Showinstitude"/>
+          <include name="Twitter"/>
+          <include name="PersonalFirstName"/>
+          <include name="MrSelect"/>
+          <include name="Facebook"/>
+          <include name="Maharashtra"/>
+          <include name="MinorityNo"/>
+          <include name="PersonalLastName"/>
+          <include name="DOBSelect"/>
+          <include name="Hindi"/>
+          <include name="Town"/>
+          <include name="Confirm2"/>
+          <include name="OtherCaste"/>
+          <include name="Hindu"/>
+          <include name="ShowRole"/>
+          <include name="PersonalEdit"/>
+          <include name="Contact"/>
+          <include name="SelectRole"/>
+          <include name="Nationality"/>
+          <include name="Religion"/>
+          <include name="PinCodeP"/>
+          <include name="SelectedLanguage2"/>
+          <include name="Selectinstitude"/>
+          <include name="District"/>
+          <include name="Country"/>
+          <include name="Caste"/>
+          <include name="MotherTongue"/>
+          <include name="MotherNameP"/>
+          <include name="Signature"/>
+          <include name="Kolhapur"/>
+        </methods>
+      </class> <!-- tests.PersonalInfoTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

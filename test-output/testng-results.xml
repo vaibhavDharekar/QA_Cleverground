@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="58" passed="58" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-02T15:02:01 IST" name="Default suite" finished-at="2024-12-02T15:03:46 IST" duration-ms="104819">
+    <groups>
+    </groups>
+    <test started-at="2024-12-02T15:02:01 IST" name="Default test" finished-at="2024-12-02T15:03:46 IST" duration-ms="104819">
+      <class name="tests.PersonalInfoTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:02:01 IST" name="setup" finished-at="2024-12-02T15:02:52 IST" duration-ms="50923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="CGlogin()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:02:52 IST" name="CGlogin" finished-at="2024-12-02T15:02:58 IST" duration-ms="6274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CGlogin -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:02:58 IST" name="Scenario_1" finished-at="2024-12-02T15:02:58 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="Showinstitude()[pri:1, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:02:58 IST" name="Showinstitude" finished-at="2024-12-02T15:02:59 IST" duration-ms="362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Showinstitude -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:02:59 IST" name="Scenario_1" finished-at="2024-12-02T15:02:59 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="Selectinstitude()[pri:2, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:02:59 IST" name="Selectinstitude" finished-at="2024-12-02T15:03:00 IST" duration-ms="690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Selectinstitude -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:00 IST" name="Scenario_1" finished-at="2024-12-02T15:03:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="ShowRole()[pri:3, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:00 IST" name="ShowRole" finished-at="2024-12-02T15:03:00 IST" duration-ms="360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShowRole -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:00 IST" name="Scenario_1" finished-at="2024-12-02T15:03:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="SelectRole()[pri:4, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:00 IST" name="SelectRole" finished-at="2024-12-02T15:03:01 IST" duration-ms="1112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectRole -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:01 IST" name="Scenario_1" finished-at="2024-12-02T15:03:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="SelectAdmission()[pri:5, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:01 IST" name="SelectAdmission" finished-at="2024-12-02T15:03:02 IST" duration-ms="589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectAdmission -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:02 IST" name="Scenario_1" finished-at="2024-12-02T15:03:02 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="AdmissionPortal()[pri:6, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:02 IST" name="AdmissionPortal" finished-at="2024-12-02T15:03:02 IST" duration-ms="539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdmissionPortal -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:02 IST" name="Scenario_1" finished-at="2024-12-02T15:03:02 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="Applied()[pri:7, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:02 IST" name="Applied" finished-at="2024-12-02T15:03:03 IST" duration-ms="925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Applied -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:03 IST" name="Scenario_1" finished-at="2024-12-02T15:03:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="ViewApplication()[pri:8, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:03 IST" name="ViewApplication" finished-at="2024-12-02T15:03:04 IST" duration-ms="781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ViewApplication -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:04 IST" name="Scenario_1" finished-at="2024-12-02T15:03:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="PersonalView()[pri:9, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:04 IST" name="PersonalView" finished-at="2024-12-02T15:03:05 IST" duration-ms="777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalView -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:05 IST" name="Scenario_1" finished-at="2024-12-02T15:03:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="PersonalEdit()[pri:10, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:05 IST" name="PersonalEdit" finished-at="2024-12-02T15:03:09 IST" duration-ms="3810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalEdit -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:09 IST" name="Scenario_1" finished-at="2024-12-02T15:03:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="Mr()[pri:11, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:09 IST" name="Mr" finished-at="2024-12-02T15:03:09 IST" duration-ms="885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mr -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:09 IST" name="Scenario_1" finished-at="2024-12-02T15:03:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="MrSelect()[pri:12, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:09 IST" name="MrSelect" finished-at="2024-12-02T15:03:10 IST" duration-ms="473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MrSelect -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:10 IST" name="Scenario_1" finished-at="2024-12-02T15:03:10 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="PersonalFirstName()[pri:13, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:10 IST" name="PersonalFirstName" finished-at="2024-12-02T15:03:11 IST" duration-ms="871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalFirstName -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:11 IST" name="Scenario_1" finished-at="2024-12-02T15:03:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="PersonalMiddleName()[pri:14, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:11 IST" name="PersonalMiddleName" finished-at="2024-12-02T15:03:11 IST" duration-ms="519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalMiddleName -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:11 IST" name="Scenario_1" finished-at="2024-12-02T15:03:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="PersonalLastName()[pri:15, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:11 IST" name="PersonalLastName" finished-at="2024-12-02T15:03:12 IST" duration-ms="530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalLastName -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:12 IST" name="Scenario_1" finished-at="2024-12-02T15:03:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="MotherNameP()[pri:16, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:12 IST" name="MotherNameP" finished-at="2024-12-02T15:03:12 IST" duration-ms="589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MotherNameP -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:12 IST" name="Scenario_1" finished-at="2024-12-02T15:03:12 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="PersonalEmail()[pri:17, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:12 IST" name="PersonalEmail" finished-at="2024-12-02T15:03:14 IST" duration-ms="1998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalEmail -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:14 IST" name="Scenario_1" finished-at="2024-12-02T15:03:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="DOB()[pri:18, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:14 IST" name="DOB" finished-at="2024-12-02T15:03:15 IST" duration-ms="379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DOB -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:15 IST" name="Scenario_1" finished-at="2024-12-02T15:03:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="DOBSelect()[pri:19, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:15 IST" name="DOBSelect" finished-at="2024-12-02T15:03:16 IST" duration-ms="1467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DOBSelect -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:16 IST" name="Scenario_1" finished-at="2024-12-02T15:03:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="Male()[pri:20, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:16 IST" name="Male" finished-at="2024-12-02T15:03:17 IST" duration-ms="458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Male -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:17 IST" name="Scenario_1" finished-at="2024-12-02T15:03:17 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="Contact()[pri:21, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:17 IST" name="Contact" finished-at="2024-12-02T15:03:19 IST" duration-ms="2152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Contact -->
+        <test-method signature="AddContact()[pri:22, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:19 IST" name="AddContact" finished-at="2024-12-02T15:03:21 IST" duration-ms="1888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddContact -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:19 IST" name="Scenario_1" finished-at="2024-12-02T15:03:19 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:21 IST" name="Scenario_1" finished-at="2024-12-02T15:03:21 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="WhatsApp()[pri:23, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:21 IST" name="WhatsApp" finished-at="2024-12-02T15:03:22 IST" duration-ms="1187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WhatsApp -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:22 IST" name="Scenario_1" finished-at="2024-12-02T15:03:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="AddressLine1()[pri:24, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:22 IST" name="AddressLine1" finished-at="2024-12-02T15:03:23 IST" duration-ms="917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddressLine1 -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:23 IST" name="Scenario_1" finished-at="2024-12-02T15:03:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="AddressLine2()[pri:25, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:23 IST" name="AddressLine2" finished-at="2024-12-02T15:03:24 IST" duration-ms="680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddressLine2 -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:24 IST" name="Scenario_1" finished-at="2024-12-02T15:03:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="Country()[pri:26, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:24 IST" name="Country" finished-at="2024-12-02T15:03:24 IST" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Country -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:24 IST" name="Scenario_1" finished-at="2024-12-02T15:03:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="India()[pri:27, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:24 IST" name="India" finished-at="2024-12-02T15:03:25 IST" duration-ms="749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- India -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:25 IST" name="Scenario_1" finished-at="2024-12-02T15:03:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="StateP()[pri:28, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:25 IST" name="StateP" finished-at="2024-12-02T15:03:25 IST" duration-ms="367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StateP -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:25 IST" name="Scenario_1" finished-at="2024-12-02T15:03:25 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="Maharashtra()[pri:29, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:25 IST" name="Maharashtra" finished-at="2024-12-02T15:03:26 IST" duration-ms="847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Maharashtra -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:26 IST" name="Scenario_1" finished-at="2024-12-02T15:03:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="District()[pri:30, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:26 IST" name="District" finished-at="2024-12-02T15:03:27 IST" duration-ms="921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- District -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:27 IST" name="Scenario_1" finished-at="2024-12-02T15:03:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="Kolhapur()[pri:31, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:27 IST" name="Kolhapur" finished-at="2024-12-02T15:03:27 IST" duration-ms="555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Kolhapur -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:27 IST" name="Scenario_1" finished-at="2024-12-02T15:03:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="Town()[pri:32, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:27 IST" name="Town" finished-at="2024-12-02T15:03:28 IST" duration-ms="739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Town -->
+        <test-method signature="PinCodeP()[pri:33, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:28 IST" name="PinCodeP" finished-at="2024-12-02T15:03:29 IST" duration-ms="717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PinCodeP -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:28 IST" name="Scenario_1" finished-at="2024-12-02T15:03:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="ChackAddress()[pri:34, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:29 IST" name="ChackAddress" finished-at="2024-12-02T15:03:29 IST" duration-ms="354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChackAddress -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:29 IST" name="Scenario_1" finished-at="2024-12-02T15:03:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="Nationality()[pri:35, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:29 IST" name="Nationality" finished-at="2024-12-02T15:03:30 IST" duration-ms="720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Nationality -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:29 IST" name="Scenario_1" finished-at="2024-12-02T15:03:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:30 IST" name="Scenario_1" finished-at="2024-12-02T15:03:30 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="Indian()[pri:36, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:30 IST" name="Indian" finished-at="2024-12-02T15:03:30 IST" duration-ms="582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Indian -->
+        <test-method signature="IsMinority()[pri:37, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:30 IST" name="IsMinority" finished-at="2024-12-02T15:03:31 IST" duration-ms="448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IsMinority -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:30 IST" name="Scenario_1" finished-at="2024-12-02T15:03:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:31 IST" name="Scenario_1" finished-at="2024-12-02T15:03:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="MinorityNo()[pri:38, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:31 IST" name="MinorityNo" finished-at="2024-12-02T15:03:32 IST" duration-ms="612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MinorityNo -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:32 IST" name="Scenario_1" finished-at="2024-12-02T15:03:32 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="Religion()[pri:39, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:32 IST" name="Religion" finished-at="2024-12-02T15:03:32 IST" duration-ms="365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Religion -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:32 IST" name="Scenario_1" finished-at="2024-12-02T15:03:32 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="Hindu()[pri:40, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:32 IST" name="Hindu" finished-at="2024-12-02T15:03:32 IST" duration-ms="505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hindu -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:32 IST" name="Scenario_1" finished-at="2024-12-02T15:03:32 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="Caste()[pri:41, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:32 IST" name="Caste" finished-at="2024-12-02T15:03:33 IST" duration-ms="850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Caste -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:33 IST" name="Scenario_1" finished-at="2024-12-02T15:03:33 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="Other()[pri:42, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:33 IST" name="Other" finished-at="2024-12-02T15:03:34 IST" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Other -->
+        <test-method signature="OtherCaste()[pri:43, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:34 IST" name="OtherCaste" finished-at="2024-12-02T15:03:36 IST" duration-ms="2148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OtherCaste -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:34 IST" name="Scenario_1" finished-at="2024-12-02T15:03:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="Catagory()[pri:44, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:36 IST" name="Catagory" finished-at="2024-12-02T15:03:36 IST" duration-ms="502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Catagory -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:36 IST" name="Scenario_1" finished-at="2024-12-02T15:03:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:36 IST" name="Scenario_1" finished-at="2024-12-02T15:03:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="Open()[pri:45, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:36 IST" name="Open" finished-at="2024-12-02T15:03:37 IST" duration-ms="732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:37 IST" name="Scenario_1" finished-at="2024-12-02T15:03:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="MotherTongue()[pri:46, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:37 IST" name="MotherTongue" finished-at="2024-12-02T15:03:38 IST" duration-ms="1454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MotherTongue -->
+        <test-method signature="Hindi()[pri:47, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:38 IST" name="Hindi" finished-at="2024-12-02T15:03:39 IST" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hindi -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:38 IST" name="Scenario_1" finished-at="2024-12-02T15:03:38 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="Language()[pri:48, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:39 IST" name="Language" finished-at="2024-12-02T15:03:39 IST" duration-ms="303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Language -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:39 IST" name="Scenario_1" finished-at="2024-12-02T15:03:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:39 IST" name="Scenario_1" finished-at="2024-12-02T15:03:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="SelectedLanguage()[pri:49, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:39 IST" name="SelectedLanguage" finished-at="2024-12-02T15:03:39 IST" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectedLanguage -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:39 IST" name="Scenario_1" finished-at="2024-12-02T15:03:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="Facebook()[pri:50, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:39 IST" name="Facebook" finished-at="2024-12-02T15:03:40 IST" duration-ms="960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Facebook -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:40 IST" name="Scenario_1" finished-at="2024-12-02T15:03:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="Linkedin()[pri:51, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:40 IST" name="Linkedin" finished-at="2024-12-02T15:03:41 IST" duration-ms="839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Linkedin -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:41 IST" name="Scenario_1" finished-at="2024-12-02T15:03:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="Twitter()[pri:52, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:41 IST" name="Twitter" finished-at="2024-12-02T15:03:42 IST" duration-ms="873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Twitter -->
+        <test-method signature="Instagram()[pri:53, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:42 IST" name="Instagram" finished-at="2024-12-02T15:03:42 IST" duration-ms="767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Instagram -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:42 IST" name="Scenario_1" finished-at="2024-12-02T15:03:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:42 IST" name="Scenario_1" finished-at="2024-12-02T15:03:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="SelectedLanguage2()[pri:54, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:42 IST" name="SelectedLanguage2" finished-at="2024-12-02T15:03:43 IST" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectedLanguage2 -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:43 IST" name="Scenario_1" finished-at="2024-12-02T15:03:43 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="Profile()[pri:55, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:43 IST" name="Profile" finished-at="2024-12-02T15:03:43 IST" duration-ms="393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Profile -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:43 IST" name="Scenario_1" finished-at="2024-12-02T15:03:43 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="Confirm()[pri:56, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:43 IST" name="Confirm" finished-at="2024-12-02T15:03:44 IST" duration-ms="1285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Confirm -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:44 IST" name="Scenario_1" finished-at="2024-12-02T15:03:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="Signature()[pri:57, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:44 IST" name="Signature" finished-at="2024-12-02T15:03:44 IST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signature -->
+        <test-method is-config="true" signature="Scenario_1()[pri:0, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:44 IST" name="Scenario_1" finished-at="2024-12-02T15:03:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method signature="Confirm2()[pri:58, instance:tests.PersonalInfoTest@6025e1b6]" started-at="2024-12-02T15:03:44 IST" name="Confirm2" finished-at="2024-12-02T15:03:46 IST" duration-ms="1210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Confirm2 -->
+      </class> <!-- tests.PersonalInfoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

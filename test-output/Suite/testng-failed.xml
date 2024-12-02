@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test1(failed)">
+    <classes>
+      <class name="tests.CreateBulkIdCardsTest">
+        <methods>
+          <include name="saveBtn"/>
+          <include name="uploadImage"/>
+          <include name="viewStudentsInfo"/>
+          <include name="setup"/>
+          <include name="fullName"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- tests.CreateBulkIdCardsTest -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+  <test thread-count="5" name="Test3(failed)">
+    <classes>
+      <class name="tests.IDCardHistoryTest">
+        <methods>
+          <include name="SelectIDcardModule"/>
+          <include name="goback"/>
+          <include name="Selectbatch"/>
+          <include name="ShowRoles"/>
+          <include name="viewbtn"/>
+          <include name="SearchName"/>
+          <include name="Showyear"/>
+          <include name="Showbatches"/>
+          <include name="Selectsemester"/>
+          <include name="back"/>
+          <include name="CGlogin"/>
+          <include name="History"/>
+          <include name="Selectdepartment"/>
+          <include name="view"/>
+          <include name="Showprograms"/>
+          <include name="SelectRoleAdministrator"/>
+          <include name="Selectyear"/>
+          <include name="setup"/>
+          <include name="ShowInstitudes"/>
+          <include name="Showdepartments"/>
+          <include name="Selectprogram"/>
+          <include name="tearDown"/>
+          <include name="Showsemester"/>
+        </methods>
+      </class> <!-- tests.IDCardHistoryTest -->
+    </classes>
+  </test> <!-- Test3(failed) -->
+  <test thread-count="5" name="Test4(failed)">
+    <classes>
+      <class name="tests.TemplateTest">
+        <methods>
+          <include name="upper"/>
+          <include name="testClickIDCard"/>
+          <include name="printd"/>
+          <include name="drop"/>
+          <include name="Name"/>
+          <include name="testShowInstitutes"/>
+          <include name="Clicktemplates"/>
+          <include name="save"/>
+          <include name="edit3"/>
+          <include name="lower"/>
+          <include name="print"/>
+          <include name="save3"/>
+          <include name="view"/>
+          <include name="edit5"/>
+          <include name="testSelectInstitutes"/>
+          <include name="save2"/>
+          <include name="edit6"/>
+          <include name="testCGLogin"/>
+          <include name="setup"/>
+          <include name="templates"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- tests.TemplateTest -->
+    </classes>
+  </test> <!-- Test4(failed) -->
+</suite> <!-- Failed suite [Suite] -->
